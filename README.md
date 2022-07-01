@@ -20,7 +20,7 @@ Pustaka booking web programming 3
     <td>
       <b>Kelas</b>
     </td>
-    <td>19.3E.07
+    <td>19.4E.07
     </td>
   </tr>
 </table>
